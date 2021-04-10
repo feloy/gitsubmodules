@@ -1,0 +1,3 @@
+[submodule "gitsubmodules-sub"]
+	path = gitsubmodules-sub
+	url = https://github.com/feloy/gitsubmodules-sub
